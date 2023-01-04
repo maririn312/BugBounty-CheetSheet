@@ -1,2 +1,4 @@
-# BugBounty-CheetSheet
-#Bug Bounty Cyber Security CheckList
+# Notes
+
+- Try to make best Bug Bounty Checklist.
+- All checklists come with references.
